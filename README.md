@@ -29,7 +29,7 @@ and Back-end /C#, SQL, MySql, JavaScript
 
 
 ## 🛠 Skills
-Front End //Javascript, HTML, CSS...
+Front End //Javascript, HTML, CSS, .NET Frameworks, and OneStream Development..
 Back End // C#, SQL, PhP
 
 
